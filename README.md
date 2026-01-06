@@ -1,0 +1,2 @@
+# khitan_small_script_wubi
+基于rime的契丹小字五笔输入法
