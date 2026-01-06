@@ -1,13 +1,15 @@
 # khitan_small_script_wubi
 基于Rime的契丹小字五笔输入方案
 
-![契丹小字研究概况](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapy7e-3hlumuQauzhf9EENkj_U9be3aV3zw&s)
+![契丹小字研究概况](images/images1.png)
 
 ## 一、概述
 
 ​	本输入方案基于输入法内核Rime，提供.dict码表和.schema配置文件。使用时需先下载安装Rime，再挂载本方案的码表和配置文件。
 
-![image-20260106222755452](C:\Users\22667\AppData\Roaming\Typora\typora-user-images\image-20260106222755452.png)
+![image-20260106222755452](images/images2.png)
+
+
 
 
 
@@ -25,6 +27,8 @@
 
 
 
+
+
 ## 三、使用步骤（Win11）
 
 1. 下载[Rime输入法内核](https://rime.im/)并安装。
@@ -39,6 +43,8 @@
 
 
 
+
+
 ## 四、输入方案介绍
 
 ​	本输入方案基于五笔86版，输入规则已尽量贴合原版，仅增加了几个易推导的字根，以最大程度上降低使用门槛。末笔识别码、取末笔规则（取折还是撇）均与86版相同。
@@ -47,7 +53,7 @@
 
 #### 1. 字根改动：
 
-![image-20260106214049000](C:\Users\22667\AppData\Roaming\Typora\typora-user-images\image-20260106214049000.png)
+![image-20260106214049000](images/images3.png)
 
 ​	新增的字根均极易类比、推导。
 
@@ -57,7 +63,7 @@
 
 ​	键名字符需打全码，如
 
-![image-20260106214807292](C:\Users\22667\AppData\Roaming\Typora\typora-user-images\image-20260106214807292.png)
+![image-20260106214807292](images/images4.png)
 
 #### 3. 重码统计
 
@@ -65,19 +71,25 @@
 
 
 
+
+
 ## 五、未解决的问题
 
 ​	本输入方案使用的字体是[CCAMC KSS Kaiti]([契丹文、女真文 | 字體和输入法 | 古今文字集成](http://www.ccamc.co/fonts_kht_jrc.php))，但在实际使用时，Rime输入法的候选词会显示方框（但输出的字符可以正常显示），我研究了两天都没解决，换用其他契丹字体也无法在候选框内正确显示。可能是配置不正确或不支持。如果有大佬能提供帮助，请联系matiasxebec@gmail.com，万分感谢！
 
-![image-20260106220226644](C:\Users\22667\AppData\Roaming\Typora\typora-user-images\image-20260106220226644.png)
+![image-20260106220226644](images/images5.png)
 
 ​	方案制作仓促，可能有其他问题。如有发现，也请直接联系我。
+
+
 
 
 
 ## 六、后记
 
 ​	本人是五笔爱好者，意图用五笔实现所有东亚汉字系文字的流畅输入。契丹文是小众中的小众，本输入方案也不会有多少实际应用价值。但能实现爱好就足矣 ٩(๑•̀ω•́๑)۶
+
+
 
 
 
