@@ -75,7 +75,7 @@
 
 ## 五、未解决的问题
 
-​	本输入方案使用的字体是[CCAMC KSS Kaiti]([契丹文、女真文 | 字體和输入法 | 古今文字集成](http://www.ccamc.co/fonts_kht_jrc.php))，但在实际使用时，Rime输入法的候选词会显示方框（但输出的字符可以正常显示），我研究了两天都没解决，换用其他契丹字体也无法在候选框内正确显示。可能是配置不正确或不支持。如果有大佬能提供帮助，请联系matiasxebec@gmail.com，万分感谢！
+​	本输入方案使用的字体是[CCAMC KSS Kaiti](http://www.ccamc.co/fonts_kht_jrc.php)，但在实际使用时，Rime输入法的候选词会显示方框（但输出的字符可以正常显示），我研究了两天都没解决，换用其他契丹字体也无法在候选框内正确显示。可能是配置不正确或不支持。如果有大佬能提供帮助，请联系matiasxebec@gmail.com，万分感谢！
 
 ![image-20260106220226644](images/images5.png)
 
