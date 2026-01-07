@@ -4,7 +4,7 @@
 schema:
   schema_id: khitan_small_script_wubi
   name: "契丹小字五笔"
-  version: "1.0"
+  version: "1.1"
   icon: "khitan_small_script_wubi.ico"           # string 方案图标，格式： .ico
   ascii_icon:                         # string
   author:
@@ -59,7 +59,7 @@ key_binder:
   import_preset: default
 
 style:
-  font_face: "CCAMC KSS Kaiti"
+  font_face: "CCAMC KSS Kaiti R"
   font_point: 18 #字号
 
 # 重复上一次输入

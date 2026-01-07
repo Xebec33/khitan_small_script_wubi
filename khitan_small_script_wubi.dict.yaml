@@ -1,10 +1,10 @@
 # encoding: utf-8
 #
-# 契丹小字五筆輸入法
+# 契丹小字五笔输入法
 
 ---
 name: "khitan_small_script_wubi"
-version: "1.0"
+version: "1.1"
 sort: by weight
 columns:
   - text
