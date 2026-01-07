@@ -53,7 +53,7 @@
 
 ​	输入演示如下图：
 
-![images6](images\images6.png)
+![images6](images/images6.png)
 
 #### 1. 字根改动：
 
