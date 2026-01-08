@@ -4,7 +4,7 @@
 
 ---
 name: "khitan_small_script_wubi"
-version: "1.1"
+version: "1.2"
 sort: by weight
 columns:
   - text
@@ -70,6 +70,8 @@ encoder:
 	cyi	10
 	da	10
 	dav	10
+	dbh	10
+	dbhj	10
 	dc	10
 	dcu	10
 	dddd	10
@@ -97,8 +99,6 @@ encoder:
 	dm	10
 	dmb	10
 	dmgh	10
-	dmh	10
-	dmhj	10
 	dmj	10
 	dmjj	10
 	dmy	10
@@ -570,6 +570,7 @@ encoder:
 	oyg	10
 	oygd	10
 	oyi	10
+	oyty	10
 	pa	10
 	pab	10
 	pay	10
@@ -718,8 +719,6 @@ encoder:
 	unv	10
 	uny	10
 	unyi	10
-	us	10
-	usi	10
 	uw	20
 	uw	10
 	uwu	20
