@@ -59,7 +59,7 @@
 
 #### 1. 字根改动：
 
-<img src="images/image3.png" alt="image-20260106214049000" style="zoom: 67%;" />
+![image3](images/image3.png)
 
 ​	新增的字根均是原版字根作轻微变形，极易类比、推导。
 
