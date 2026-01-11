@@ -4,7 +4,7 @@
 schema:
   schema_id: khitan_small_script_wubi
   name: "契丹小字五笔"
-  version: "1.2"
+  version: "2.0"
   icon: "khitan_small_script_wubi.ico"           # string 方案图标，格式： .ico
   ascii_icon:                         # string
   author:
@@ -43,6 +43,11 @@ engine:
     - lua_translator@*wubi86_jidian_date_translator # 日期、时间、星期
     - history_translator@repeat_last_input # 重复上一次输入，对应下面的 repeat_last_input
 
+key_binder:
+  bindings:
+    - { when: has_menu, accept: semicolon, send: 2 }  # 候选2 用分号
+    - { when: has_menu, accept: apostrophe, send: 3 } # 候选3 用单引号
+
 speller:
   max_code_length: 4                    # 四码上屏
   auto_select: false                     # 四码唯一时，自动上屏
@@ -53,10 +58,9 @@ translator:
   enable_charset_filter: false           # 开启字符集过滤
   enable_completion: true               # 是否显示编码未输入完整的词条
 
+  enable_sentence: false                # 句子输入模式
+  enable_user_dict: false               # 是否开启用户词典（用户词典记录动态字词频，用户词）
   enable_encoder: false
-
-key_binder:
-  import_preset: default
 
 style:
   font_face: "CCAMC KSS Kaiti R"

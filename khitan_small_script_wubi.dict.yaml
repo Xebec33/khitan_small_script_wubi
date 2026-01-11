@@ -4,7 +4,7 @@
 
 ---
 name: "khitan_small_script_wubi"
-version: "1.2"
+version: "2.0"
 sort: by weight
 columns:
   - text
@@ -88,9 +88,7 @@ encoder:
 	dhgf	10
 	djd	10
 	djdd	10
-	dk	20
 	dk	10
-	dkd	10
 	dkf	10
 	dl	20
 	dl	10
@@ -118,8 +116,6 @@ encoder:
 	dny	10
 	dnyi	20
 	dnyi	10
-	dq	10
-	dqb	10
 	du	20
 	du	10
 	due	10
@@ -160,6 +156,8 @@ encoder:
 	fi	10
 	fii	10
 	fiu	10
+	fk	10
+	fkd	10
 	fm	10
 	fmb	10
 	fmy	10
@@ -188,8 +186,10 @@ encoder:
 	fnyy	10
 	fo	10
 	fou	10
-	fq	20
-	fq	10
+	fq	30
+	fq	20
+	fq	10
+	fqb	10
 	fqi	10
 	fqv	10
 	fqy	10
@@ -321,14 +321,10 @@ encoder:
 	idmy	10
 	if	10
 	ifh	10
-	ig	10
-	igd	10
-	igty	10
-	igw	10
-	igwu	10
 	ihc	10
 	ihcy	10
 	ihty	10
+	ihyg	10
 	ihyt	10
 	imy	10
 	imyu	10
@@ -337,7 +333,10 @@ encoder:
 	inb	10
 	inv	10
 	it	10
+	itmy	10
 	ity	10
+	iw	10
+	iwu	10
 	jhh	10
 	jyg	10
 	jygd	10
@@ -481,12 +480,12 @@ encoder:
 	nhgd	10
 	nhk	10
 	nhty	10
-	ni	40
-	ni	30
-	ni	20
-	ni	10
-	nig	10
-	nigd	10
+	ni	50
+	ni	40
+	ni	30
+	ni	20
+	ni	10
+	nid	10
 	nii	40
 	nii	30
 	nii	20
