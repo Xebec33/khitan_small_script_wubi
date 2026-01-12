@@ -335,6 +335,8 @@ encoder:
 	ity	10
 	iw	10
 	iwu	10
+	jb	10
+	jbh	10
 	jhh	10
 	jyg	10
 	jygd	10
@@ -866,8 +868,6 @@ encoder:
 	you	10
 	yqy	10
 	yqyi	10
-	ytb	10
-	ytbh	10
 	ytny	10
 	yv	10
 	yvv	10
