@@ -4,7 +4,7 @@
 
 ---
 name: "khitan_small_script_wubi"
-version: "2.0"
+version: "2.1"
 sort: by weight
 columns:
   - text
@@ -54,7 +54,6 @@ encoder:
 	chg	10
 	chgf	10
 	chk	10
-	cngc	10
 	cny	10
 	cnyh	10
 	cwc	10
@@ -80,7 +79,7 @@ encoder:
 	dfd	10
 	dfj	10
 	dfy	10
-	dfyj	10
+	dfyu	10
 	dg	10
 	dgd	10
 	dgt	10
@@ -204,6 +203,7 @@ encoder:
 	fw	10
 	fwd	10
 	fwdi	10
+	fwg	10
 	fwgd	10
 	fwhg	10
 	fwi	10
@@ -239,7 +239,7 @@ encoder:
 	gl	10
 	glv	10
 	gly	10
-	glyu	10
+	glyi	10
 	gm	10
 	gmf	10
 	gmfh	10
@@ -285,8 +285,8 @@ encoder:
 	gny	10
 	gnyi	20
 	gnyi	10
-	gud	10
-	gudi	10
+	guw	10
+	guwi	10
 	guh	10
 	guhk	10
 	gumy	10
@@ -311,8 +311,6 @@ encoder:
 	hh	10
 	hhhh	10
 	hhll	10
-	hng	10
-	hngd	10
 	htny	10
 	id	10
 	idh	10
@@ -474,12 +472,15 @@ encoder:
 	ngd	20
 	ngd	10
 	nh	10
-	nhg	20
-	nhg	10
+	nhg	30
+	nhg	20
+	nhg	10
+	nhgd	30
 	nhgd	20
-	nhgd	10
+	nhgd	10
 	nhk	10
-	nhty	10
+	nhw	10
+	nhwi	10
 	ni	50
 	ni	40
 	ni	30
@@ -501,6 +502,7 @@ encoder:
 	nn	20
 	nn	10
 	nng	10
+	nngc	10
 	nngd	10
 	nnll	70
 	nnll	60
@@ -548,6 +550,8 @@ encoder:
 	nyi	30
 	nyi	20
 	nyi	10
+	obh	10
+	obhj	10
 	oc	10
 	ocu	10
 	of	10
@@ -558,8 +562,6 @@ encoder:
 	okf	10
 	ol	10
 	olb	10
-	omh	10
-	omhj	10
 	oooo	10
 	ou	10
 	ouu	10
@@ -599,7 +601,7 @@ encoder:
 	qf	10
 	qff	10
 	qfn	10
-	qfnb	10
+	qfnv	10
 	qfny	10
 	qg	10
 	qgd	10
@@ -831,7 +833,7 @@ encoder:
 	wty	10
 	wu	10
 	wuh	10
-	wuhh	10
+	wuhj	10
 	wuu	10
 	ww	20
 	ww	10
@@ -853,7 +855,7 @@ encoder:
 	yg	10
 	ygd	10
 	ym	10
-	ymb	10
+	ymv	10
 	yni	10
 	yniu	10
 	ynn	10
