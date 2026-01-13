@@ -4,7 +4,7 @@
 
 ---
 name: "khitan_small_script_wubi"
-version: "2.1"
+version: "2.2"
 sort: by weight
 columns:
   - text
@@ -681,7 +681,8 @@ encoder:
 	tsu	10
 	tt	10
 	ttg	10
-	tthy	10
+	ti	10
+	tiu	10
 	ttll	10
 	ttny	10
 	tuw	10
