@@ -115,9 +115,7 @@ encoder:
 	dny	10
 	dnyi	20
 	dnyi	10
-	du	20
 	du	10
-	due	10
 	duf	10
 	dw	30
 	dw	20
@@ -285,6 +283,8 @@ encoder:
 	gny	10
 	gnyi	20
 	gnyi	10
+	go	10
+	goi	10
 	guw	10
 	guwi	10
 	guh	10
