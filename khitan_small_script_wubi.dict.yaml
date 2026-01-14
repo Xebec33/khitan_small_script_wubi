@@ -312,6 +312,8 @@ encoder:
 	hhhh	10
 	hhll	10
 	htny	10
+	hww	10
+	hwwi	10
 	id	10
 	idh	10
 	idhg	10
@@ -840,10 +842,8 @@ encoder:
 	wuu	10
 	ww	20
 	ww	10
-	wwh	10
 	wwhg	20
 	wwhg	10
-	wwhk	10
 	wwnt	10
 	wwu	20
 	wwu	10
