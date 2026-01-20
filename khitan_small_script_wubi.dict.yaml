@@ -476,12 +476,12 @@ encoder:
 	ngd	20
 	ngd	10
 	nh	10
-	nhg	30
-	nhg	20
-	nhg	10
-	nhgd	30
+	nh	10
+	nhd	10
+	nhg	20
+	nhg	10
 	nhgd	20
-	nhgd	10
+	nhgd	10
 	nhk	10
 	nhw	10
 	nhwi	10
