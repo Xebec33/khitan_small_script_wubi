@@ -4,7 +4,7 @@
 
 ---
 name: "khitan_small_script_wubi"
-version: "2.2"
+version: "2.3"
 sort: by weight
 columns:
   - text
@@ -193,10 +193,10 @@ encoder:
 	fqyi	10
 	ftny	20
 	ftny	10
-	fty	10
-	ftyi	10
+	fu	20
 	fu	10
 	fud	10
+	fui	10
 	fw	20
 	fw	10
 	fwd	10
@@ -427,12 +427,8 @@ encoder:
 	mt	10
 	mte	10
 	mtn	10
-	mu	30
-	mu	20
 	mu	10
 	mud	10
-	mue	20
-	mue	10
 	mw	20
 	mw	10
 	mwu	20
@@ -708,11 +704,16 @@ encoder:
 	uhd	10
 	uhdg	10
 	uhqy	10
-	uhty	10
+	uhu	10
+	uhuy	10
 	ul	10
 	ulf	20
 	ulf	10
 	ulff	10
+	um	20
+	um	10
+	ume	20
+	ume	10
 	umh	10
 	umhk	10
 	un	10
@@ -820,7 +821,8 @@ encoder:
 	wnhh	10
 	wnn	20
 	wnn	10
-	wnty	10
+	wnu10
+	wnuy10
 	wny	20
 	wny	10
 	wnyy	20
